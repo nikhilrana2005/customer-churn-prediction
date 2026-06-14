@@ -1,0 +1,31 @@
+PROJECT: Customer Churn Prediction & Lifetime Value Engine
+
+Dataset:
+Telco Customer Churn Dataset
+
+Total Records:
+7043
+
+Machine Learning Models Used:
+1. Logistic Regression
+2. Random Forest
+3. XGBoost
+
+Best Model:
+XGBoost
+
+Best Accuracy:
+81.76%
+
+Top Important Features:
+1. Contract
+2. TechSupport
+3. OnlineSecurity
+4. InternetService
+5. Tenure
+
+Business Insights:
+- Month-to-month contract customers churn more.
+- Customers with low tenure are more likely to leave.
+- TechSupport reduces churn.
+- OnlineSecurity is strongly related to customer retention.
