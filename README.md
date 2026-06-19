@@ -118,10 +118,7 @@ Built an interactive dashboard to monitor:
 
 ## Dashboard Preview
 
-Add your dashboard screenshot below.
 
-```text
-dashboard/dashboard_preview.png
 
 
 | Category         | Tools & Technologies          |
